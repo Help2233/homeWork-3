@@ -90,7 +90,7 @@ public class Main {
         float mashaNewAnnualIncome = (raisingMasha + masha) * 12;
         System.out.println("старый годовой доход Mаши состовлял " + mashasAnnualIncome + " рублей, а новый состовляет " + mashaNewAnnualIncome + " рублей");
         float differenceMasha = mashaNewAnnualIncome - mashasAnnualIncome;
-        System.out.println("Маша теперь получает в год " + mashaNewAnnualIncome + " рублей. Годовой доход вырос на " + differenceMasha + " рублей");
+        System.out.println("Маша теперь получает в год " + mashaNewAnnualIncome + " рублей.Годовой доход вырос на " + differenceMasha + " рублей");
 
 
         float denis = 83690f;
@@ -113,6 +113,7 @@ public class Main {
         System.out.println("старый годовой доход Кристины состовлял " + kristinaAnnualIncome + " рублей, а новый состовляет " + kristinaNewAnnualIncome + " рублей");
         float differenceKristina = kristinaNewAnnualIncome - kristinaAnnualIncome;
         System.out.println("Кристина теперь получает в год  " + kristinaNewAnnualIncome + " рублей. Годовой доход вырос на " + differenceKristina + " рублей");
+
 
     }}
 
